@@ -1,0 +1,19 @@
+const int PIR_PIN = 13; // Pino de saída do PIR
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(PIR_PIN, INPUT);
+  Serial.println("Sistema iniciado. Monitorando movimento...");
+}
+
+void loop() {
+  int movimento = digitalRead(PIR_PIN);
+
+  if (movimento == HIGH) {
+    Serial.println("🚨 Movimento detectado!");
+  } else {
+    Serial.println("Sem movimento.");
+  }
+
+  delay(500); // Ajuste esse valor se quiser menos mensagens
+}
