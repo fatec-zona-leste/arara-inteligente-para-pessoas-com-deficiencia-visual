@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo%20arara.png" alt="Logo Wear Sense" width="200"/>
+  <img src="LogoArara.png" alt="Logo Wear Sense" width="200" style="border: 3px solid #000000; border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Wear Sense</h1>
