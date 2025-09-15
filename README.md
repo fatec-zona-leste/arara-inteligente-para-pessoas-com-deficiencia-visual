@@ -49,4 +49,4 @@ Assista à demonstração do projeto no YouTube:
 
 ---
 
-## 🏫 FETESP
+## 🏫 FETEPS
