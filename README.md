@@ -45,7 +45,7 @@ Prof. Jeferson Roberto De Lima
 
 ## ▶️ Demonstração  
 Assista à demonstração do projeto no YouTube:  
-**[Clique aqui para assistir](coloque-o-link-do-video-aqui)**
+**[Clique aqui para assistir](https://youtu.be/WKtR5YYwnEs?si=TwQXAW6vi5fOopT0)**
 
 ---
 
